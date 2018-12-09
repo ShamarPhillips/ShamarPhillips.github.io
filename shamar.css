@@ -1,0 +1,40 @@
+
+/*This is a comment*/
+body{
+    background:  black;
+    color:  white;
+}
+
+p{
+    color:     navy;
+        font-size: 50px;
+}
+
+.jonin {
+    color: green;
+    font-size: 20px
+}
+
+.genin {
+    color:  blue;
+}
+
+.kage {
+    color:  red;
+}
+
+.seed {
+    color:  brown;
+}
+
+#koi {
+    color: orangered;
+}
+
+#green {
+    color: greenyellow;
+}
+
+img {
+    width: 300px;
+}
